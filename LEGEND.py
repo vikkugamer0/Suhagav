@@ -4,8 +4,8 @@ from telegram import Update
 from telegram.ext import Application, CommandHandler, CallbackContext
 from telegram.error import TelegramError
 
-TELEGRAM_BOT_TOKEN = 'BOT TOKEN '
-ALLOWED_USER_ID = USER ID 
+TELEGRAM_BOT_TOKEN = '7581242120:AAECD0DyAS-M4HV5YXYrLyFfXKYd1XvNId8'
+ALLOWED_USER_ID = 6957116305 
 bot_access_free = True  
 
 # Store attacked IPs to prevent duplicate attacks
